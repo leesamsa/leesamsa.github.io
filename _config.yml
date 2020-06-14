@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            이지훈
-tagline:          'A Jekyll theme'
-description:      '늅늅'
+title:            똥멍청이에게는 기록이 약
+tagline:          'blog'
+description:      '여러 관심사를 가진 이지훈입니다.'
 url:              https://leesamsa.github.io/
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
