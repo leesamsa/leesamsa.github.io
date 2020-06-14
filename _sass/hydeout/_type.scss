@@ -15,6 +15,9 @@ h6,
   margin-bottom: $heading-spacing;
   text-rendering: optimizeLegibility;
 }
+.site-title {
+  font-size: 2rem;
+}
 
 h1 {
   font-size: 2rem;
@@ -121,7 +124,7 @@ a[href^='#fnref:'] {
 // Extend paragraphs with `.lead` for larger introductory text.
 
 .lead {
-  font-size: 1.25rem;
+  font-size: .9rem;
   font-weight: 300;
 }
 
