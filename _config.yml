@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            똥멍청이에게는 기록이 약
 tagline:          'blog'
 description:      '여러 관심사를 가진 이지훈입니다.'
-url:              https://leesamsa.github.io/
+url:              https://leesamsa.github.io
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,7 +16,7 @@ baseurl:
 
 author:
   name:           'leejihun'
-  url:            https://leesamsa.github.io/
+  url:            https://leesamsa.github.io
 
 paginate:         5
 # paginate_path:    '/page:num'
