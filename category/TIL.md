@@ -1,6 +1,5 @@
 ---
 layout: category
-title: Markup
+title: TIL
 ---
 
-Today I Learned
