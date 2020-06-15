@@ -1,8 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-disqus:
-  shortname: leejihun
+disqus-shortname: leejihun
 
 # Setup
 title:            모르면써놓자
