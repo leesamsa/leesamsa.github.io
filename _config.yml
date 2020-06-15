@@ -1,7 +1,8 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-disqus-shortname: leejihun
+disqus:
+  shortname: leejihun
 
 # Setup
 title:            모르면써놓자
@@ -34,3 +35,7 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+
+defaults:
+  values:
+    related: false
